@@ -3,14 +3,12 @@ package homepage;
 import base.BaseTests;
 import org.junit.jupiter.api.Test;
 import pages.LoginPage;
+import pages.ModalProdutoPage;
 import pages.ProdutoPage;
-
-import javax.swing.plaf.synth.SynthLookAndFeel;
-
 import java.util.List;
-
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.is;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class HomePageTests extends BaseTests {
     @Test
@@ -68,8 +66,8 @@ public class HomePageTests extends BaseTests {
         if(!homePage.estaLogado("Teste Testador")){
             testLoginComSucesso_UsuarioLogado();
         }
-        // Seleciona produto
         carregarPaginaInicial();
+        // Seleciona produto
         testValidarDetalhesDoProduto_DescricaoEValorIguais();
         // Seleciona tamanho
         produtoPage.selecionarOpcaoDropDown("M");
@@ -78,7 +76,9 @@ public class HomePageTests extends BaseTests {
         produtoPage.selecionarCorPreta();
         // Seleciona quantidade
         produtoPage.alterarQuantidade(2);
-        // Adicionar ao carrinho
-        produtoPage.clicarBotaoAddToCart();
+        // Adiciona ao carrinho
+        ModalProdutoPage modalProdutoPage = produtoPage.clicarBotaoAddToCart();
+        // Valida se o produto foi adicionado ao carrinho
+        assertTrue(modalProdutoPage.obterMensagemProdutoAdicionado().contains("Product successfully added to your shopping cart"));
     }
 }
