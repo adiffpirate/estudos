@@ -10,12 +10,7 @@ Repositório para guardar e organizar meus materiais de estudo sobre diversas á
 ## Conteúdos
 
 - [QA](#qa)
-    - Projetos práticos
-        - [Testes WEB IRTS-01](https://github.com/adiffpirate/estudos/tree/master/QA/teste-web-irts01)
 - [DevOps](#devops)
-    - Mapas mentais
-        - [Jornada DevOps](https://github.com/adiffpirate/estudos/tree/master/DevOps/jornada-devops)
-
 
 ## QA
 
