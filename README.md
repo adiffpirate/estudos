@@ -22,7 +22,7 @@ O QA (Quality Assurance ou Analista da Qualidade) é o profissional responsável
 
 Nome|Tecnologias utilizadas|Descrição
 :---:|:-------------------:|:--------:
-[Testes WEB IRTS-01](https://github.com/adiffpirate/estudos/tree/master/QA#teste-web-irts01)|Selenium Web-Driver<br>Maven / Java|Automação de testes WEB desenvolvida no curso <br>"Início Rápido em Testes de Software 01" da [Iterasys](https://iterasys.com.br/)
+[Testes WEB IRTS-01](https://github.com/adiffpirate/estudos/tree/master/QA#testes-web-irts01)|Selenium Web-Driver<br>Maven / Java|Automação de testes WEB desenvolvida no curso <br>"Início Rápido em Testes de Software 01" da [Iterasys](https://iterasys.com.br/)
 
 ## DevOps
 
