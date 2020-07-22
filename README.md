@@ -10,8 +10,12 @@ Repositório para guardar e organizar meus materiais de estudo sobre diversas á
 ## Conteúdos
 
 - [QA](#qa)
-  - [Projetos práticos](#projetos-práticos)
-    - [Testes WEB IRTS-01](https://github.com/adiffpirate/estudos/tree/master/QA/teste-web-irts01)
+    - Projetos práticos
+        - [Testes WEB IRTS-01](https://github.com/adiffpirate/estudos/tree/master/QA/teste-web-irts01)
+- [DevOps](#devops)
+    - Mapas mentais
+        - [Jornada DevOps](https://github.com/adiffpirate/estudos/tree/master/DevOps/jornada-devops)
+
 
 ## QA
 
@@ -24,3 +28,13 @@ O QA (Quality Assurance ou Analista da Qualidade) é o profissional responsável
 Nome|Tecnologias utilizadas|Descrição
 :---:|:-------------------:|:--------:
 [Testes WEB IRTS-01](https://github.com/adiffpirate/estudos/tree/master/QA/teste-web-irts01)|Selenium Web-Driver<br>Maven / Java|Automação de testes WEB desenvolvida no curso <br>"Início Rápido em Testes de Software 01" da [Iterasys](https://iterasys.com.br/)
+
+## DevOps
+
+Uma soma de práticas colaborativas e ferramentas de automação com o intuito de minimizar os conflitos entre todas as equipes responsáveis pelo produto, desde seu processo de concepção até a entrega.
+
+### Mapas mentais
+
+Nome|Descrição
+:--:|:-------:
+[Jornada DevOps](https://github.com/adiffpirate/estudos/tree/master/DevOps/jornada-devops)|O conteúdo desse mapa foi baseado no excelente livro [Jornada DevOps](https://books.google.com.br/books/about/Jornada_DevOps_2a_edi%C3%A7%C3%A3o.html?id=gJTaDwAAQBAJ) e no bootcamp "Profissional DevOps" da [IGTI](https://www.igti.com.br/)
