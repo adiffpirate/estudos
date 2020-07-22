@@ -5,7 +5,7 @@ Uma soma de práticas colaborativas e ferramentas de automação com o intuito d
 ## Conteúdos
 
 - [Mapas mentais](#mapas-mentais)
-    - [Jornada DevOps](https://github.com/adiffpirate/estudos/tree/master/DevOps/jornada-devops)
+    - [Jornada DevOps](#jornada-devops)
 
 ## Mapas mentais
 
