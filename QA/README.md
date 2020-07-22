@@ -7,11 +7,11 @@ O QA (Quality Assurance ou Analista da Qualidade) é o profissional responsável
 ## Conteúdos
 
 - [Projetos práticos](#projetos-práticos)
-    - [Testes WEB IRTS-01](#testes-web-irts-01)
+    - [Testes WEB IRTS-01](#testes-web-irts01)
 
 ## Projetos práticos 
 
-### Testes WEB IRTS-01
+### Testes WEB IRTS01
 
 Automação de testes WEB desenvolvida no curso "Início Rápido em Testes de Software 01" da [Iterasys](https://iterasys.com.br/).
 
