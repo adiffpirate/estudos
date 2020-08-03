@@ -23,11 +23,10 @@
       <font size="4">Conte&#250;do baseado no livro &quot;Jornada DevOps&quot; (https://books.google.com.br/books/about/Jornada_DevOps_2a_edi%C3%A7%C3%A3o.html?id=gJTaDwAAQBAJ)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="22"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties"/>
-<node CREATED="1594946507536" HGAP="84" ID="ID_1837142354" MODIFIED="1596061471084" POSITION="left" TEXT="Carreira" VGAP="2" VSHIFT="6">
+<node CREATED="1594946507536" FOLDED="true" HGAP="84" ID="ID_1837142354" MODIFIED="1596493720644" POSITION="left" TEXT="Carreira" VGAP="2" VSHIFT="6">
 <edge COLOR="#066601" STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="20"/>
 <node CREATED="1594945774380" HGAP="29" ID="ID_1835868155" MODIFIED="1596061471369" TEXT="Cargos" VSHIFT="-68">
@@ -142,7 +141,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1594845610080" HGAP="128" ID="ID_773537955" MODIFIED="1596061471099" POSITION="right">
+<node CREATED="1594845610080" FOLDED="true" HGAP="128" ID="ID_773537955" MODIFIED="1596062573146" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -559,7 +558,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1594852221932" HGAP="122" ID="ID_1704057201" MODIFIED="1596061471099" POSITION="right" TEXT="1&#xaa; Maneira: Fluxo" VSHIFT="50">
+<node CREATED="1594852221932" HGAP="122" ID="ID_1704057201" MODIFIED="1596063605306" POSITION="right" TEXT="1&#xaa; Maneira: Fluxo" VSHIFT="50">
 <edge COLOR="#00664e" STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="20"/>
 <node CREATED="1594852324109" HGAP="16" ID="ID_1890241585" MODIFIED="1596061471401" TEXT="Objetivo" VSHIFT="24">
@@ -880,8 +879,253 @@
 </node>
 </node>
 </node>
+<node CREATED="1596489886507" HGAP="24" ID="ID_286949506" MODIFIED="1596491991278" TEXT="Teste Automatizado" VSHIFT="58">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node CREATED="1596491895737" ID="ID_1158595460" MODIFIED="1596491905565" TEXT="Acelera a implanta&#xe7;&#xe3;o de qualidade">
+<font NAME="SansSerif" SIZE="16"/>
 </node>
-<node CREATED="1594852244374" HGAP="154" ID="ID_1150371778" MODIFIED="1596061471099" POSITION="right" TEXT="2&#xaa; Maneira: Feedback" VSHIFT="57">
+<node CREATED="1596491906614" ID="ID_1635224148" MODIFIED="1596491921902" TEXT="Permite que os times trabalhem de forma mais colaborativa">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1596490024728" HGAP="19" ID="ID_233996453" MODIFIED="1596491928303" TEXT="Pir&#xe2;mide ideal de testes" VSHIFT="35">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1596490242502" ID="ID_1587181667" MODIFIED="1596490271915">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="../../../Downloads/piramide-automacao-testes.png" />
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node CREATED="1596490594554" HGAP="15" ID="ID_777385314" MODIFIED="1596492716670" TEXT="Test-Driven Development (TDD)" VSHIFT="71">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1596490623235" ID="ID_47358746" MODIFIED="1596490661627" TEXT="Criado por Kent Beck na d&#xe9;cada de 90">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node CREATED="1596490663103" ID="ID_1860575740" MODIFIED="1596490679573" TEXT="Faz parte do XP (eXtreme Programming)">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node CREATED="1596490726678" ID="ID_432737048" MODIFIED="1596491398254" TEXT="Foma eficaz de escrever testes automatizados como parte do trabalho">
+<font NAME="SansSerif" SIZE="14"/>
+<node CREATED="1596491429384" ID="ID_1975323625" MODIFIED="1596491468423" TEXT="( Pesquisa IBM/Microsoft )">
+<font NAME="SansSerif" SIZE="14"/>
+<node CREATED="1596491349733" ID="ID_854197819" MODIFIED="1596491449951" TEXT="Demora mais apenas de 15% a 35%">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node CREATED="1596491323854" ID="ID_1846164659" MODIFIED="1596491452343" TEXT="Produz c&#xf3;digo de 60% a 90% melhor">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node CREATED="1596491113920" ID="ID_611005986" MODIFIED="1596491145792" TEXT="Primeiro escreve o teste automatizado que valide as falhas de comportamento e depois escreve o c&#xf3;digo para fazer os testes passarem">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node CREATED="1596490751509" HGAP="18" ID="ID_1416471185" MODIFIED="1596491264806" TEXT="Ciclo" VSHIFT="23">
+<font NAME="SansSerif" SIZE="14"/>
+<node CREATED="1596490806665" ID="ID_1091170448" MODIFIED="1596491022965" TEXT="Escreve os testes">
+<arrowlink DESTINATION="ID_812505279" ENDARROW="Default" ENDINCLINATION="26;0;" ID="Arrow_ID_696192199" STARTARROW="None" STARTINCLINATION="26;0;"/>
+<linktarget COLOR="#313131" DESTINATION="ID_1091170448" ENDARROW="Default" ENDINCLINATION="176;0;" ID="Arrow_ID_1679498131" SOURCE="ID_1256888514" STARTARROW="None" STARTINCLINATION="176;0;"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node CREATED="1596490842950" ID="ID_812505279" MODIFIED="1596491013245" TEXT="Executa os testes">
+<arrowlink DESTINATION="ID_736392872" ENDARROW="Default" ENDINCLINATION="26;0;" ID="Arrow_ID_1196618254" STARTARROW="None" STARTINCLINATION="26;0;"/>
+<linktarget COLOR="#313131" DESTINATION="ID_812505279" ENDARROW="Default" ENDINCLINATION="26;0;" ID="Arrow_ID_696192199" SOURCE="ID_1091170448" STARTARROW="None" STARTINCLINATION="26;0;"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node CREATED="1596490942226" ID="ID_736392872" MODIFIED="1596491015132" TEXT="Escreve o c&#xf3;digo">
+<arrowlink DESTINATION="ID_1264616304" ENDARROW="Default" ENDINCLINATION="26;0;" ID="Arrow_ID_1294582495" STARTARROW="None" STARTINCLINATION="26;0;"/>
+<linktarget COLOR="#313131" DESTINATION="ID_736392872" ENDARROW="Default" ENDINCLINATION="26;0;" ID="Arrow_ID_1196618254" SOURCE="ID_812505279" STARTARROW="None" STARTINCLINATION="26;0;"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node CREATED="1596490953798" ID="ID_1264616304" MODIFIED="1596491017024" TEXT="Executa os testes">
+<arrowlink DESTINATION="ID_631156652" ENDARROW="Default" ENDINCLINATION="26;0;" ID="Arrow_ID_1428500646" STARTARROW="None" STARTINCLINATION="26;0;"/>
+<linktarget COLOR="#313131" DESTINATION="ID_1264616304" ENDARROW="Default" ENDINCLINATION="26;0;" ID="Arrow_ID_1294582495" SOURCE="ID_736392872" STARTARROW="None" STARTINCLINATION="26;0;"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node CREATED="1596490987213" ID="ID_631156652" MODIFIED="1596491036474" TEXT="Refatora o c&#xf3;digo">
+<arrowlink DESTINATION="ID_1256888514" ENDARROW="Default" ENDINCLINATION="97;0;" ID="Arrow_ID_748338139" STARTARROW="None" STARTINCLINATION="114;0;"/>
+<linktarget COLOR="#313131" DESTINATION="ID_631156652" ENDARROW="Default" ENDINCLINATION="26;0;" ID="Arrow_ID_1428500646" SOURCE="ID_1264616304" STARTARROW="None" STARTINCLINATION="26;0;"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node CREATED="1596490992810" ID="ID_1256888514" MODIFIED="1596491061408" TEXT="Repita at&#xe9; todos os testes passarem">
+<arrowlink DESTINATION="ID_1091170448" ENDARROW="Default" ENDINCLINATION="176;0;" ID="Arrow_ID_1679498131" STARTARROW="None" STARTINCLINATION="176;0;"/>
+<linktarget COLOR="#313131" DESTINATION="ID_1256888514" ENDARROW="Default" ENDINCLINATION="97;0;" ID="Arrow_ID_748338139" SOURCE="ID_631156652" STARTARROW="None" STARTINCLINATION="114;0;"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node CREATED="1596491481929" HGAP="15" ID="ID_490260824" MODIFIED="1596492720810" TEXT="Behavior Driven Development (BDD)" VSHIFT="69">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1596491541849" ID="ID_1281993487" MODIFIED="1596491549584" TEXT="Trabalha o comportamento esperado da aplica&#xe7;&#xe3;o">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node CREATED="1596491551720" ID="ID_1564109570" MODIFIED="1596491577734" TEXT="Inclui a regra de neg&#xf3;cio no ciclo de desenvolvimento">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node CREATED="1596491580170" HGAP="19" ID="ID_783230929" MODIFIED="1596491874423" TEXT="Ciclo" VSHIFT="29">
+<font NAME="SansSerif" SIZE="14"/>
+<node CREATED="1596491592202" ID="ID_1904387125" MODIFIED="1596491853358" TEXT="Necessidade de implata&#xe7;&#xe3;o de uma funcionalidade do backlog">
+<arrowlink DESTINATION="ID_445984075" ENDARROW="Default" ENDINCLINATION="36;0;" ID="Arrow_ID_565760602" STARTARROW="None" STARTINCLINATION="36;0;"/>
+<linktarget COLOR="#313131" DESTINATION="ID_1904387125" ENDARROW="Default" ENDINCLINATION="197;0;" ID="Arrow_ID_956187283" SOURCE="ID_590243444" STARTARROW="None" STARTINCLINATION="197;0;"/>
+<linktarget COLOR="#313131" DESTINATION="ID_1904387125" ENDARROW="Default" ENDINCLINATION="152;0;" ID="Arrow_ID_1784001800" SOURCE="ID_99229885" STARTARROW="None" STARTINCLINATION="152;0;"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node CREATED="1596491610612" ID="ID_445984075" MODIFIED="1596491685377" TEXT="Levantamento das User Stories com os Usu&#xe1;rios e partes interessadas">
+<arrowlink DESTINATION="ID_727125704" ENDARROW="Default" ENDINCLINATION="73;0;" ID="Arrow_ID_1966375543" STARTARROW="None" STARTINCLINATION="73;0;"/>
+<linktarget COLOR="#313131" DESTINATION="ID_445984075" ENDARROW="Default" ENDINCLINATION="36;0;" ID="Arrow_ID_565760602" SOURCE="ID_1904387125" STARTARROW="None" STARTINCLINATION="36;0;"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node CREATED="1596491633287" ID="ID_727125704" MODIFIED="1596491722389" TEXT="Descri&#xe7;&#xe3;o dos cen&#xe1;rios e comportamentos (features)">
+<arrowlink DESTINATION="ID_754562134" ENDARROW="Default" ENDINCLINATION="74;0;" ID="Arrow_ID_1764693363" STARTARROW="None" STARTINCLINATION="74;0;"/>
+<linktarget COLOR="#313131" DESTINATION="ID_727125704" ENDARROW="Default" ENDINCLINATION="73;0;" ID="Arrow_ID_1966375543" SOURCE="ID_445984075" STARTARROW="None" STARTINCLINATION="73;0;"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node CREATED="1596491645298" ID="ID_754562134" MODIFIED="1596491689077" TEXT="Levantamento dos exemplos concretos como resultado esperado das User Stories">
+<arrowlink DESTINATION="ID_99229885" ENDARROW="Default" ENDINCLINATION="45;0;" ID="Arrow_ID_1759410290" STARTARROW="None" STARTINCLINATION="45;0;"/>
+<linktarget COLOR="#313131" DESTINATION="ID_754562134" ENDARROW="Default" ENDINCLINATION="74;0;" ID="Arrow_ID_1764693363" SOURCE="ID_727125704" STARTARROW="None" STARTINCLINATION="74;0;"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node CREATED="1596491660436" ID="ID_99229885" MODIFIED="1596491853358" TEXT="Defini&#xe7;&#xe3;o dos testes funcionais automatizados com base nos exemplos">
+<arrowlink DESTINATION="ID_590243444" ENDARROW="Default" ENDINCLINATION="45;0;" ID="Arrow_ID_1088937743" STARTARROW="None" STARTINCLINATION="45;0;"/>
+<arrowlink DESTINATION="ID_1904387125" ENDARROW="Default" ENDINCLINATION="152;0;" ID="Arrow_ID_1784001800" STARTARROW="None" STARTINCLINATION="152;0;"/>
+<linktarget COLOR="#313131" DESTINATION="ID_99229885" ENDARROW="Default" ENDINCLINATION="45;0;" ID="Arrow_ID_1759410290" SOURCE="ID_754562134" STARTARROW="None" STARTINCLINATION="45;0;"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node CREATED="1596491770554" ID="ID_590243444" MODIFIED="1596491849563" TEXT="(Aqui pode-se usar o TDD para lidar com a parte t&#xe9;cnica da aplica&#xe7;&#xe3;o)">
+<arrowlink DESTINATION="ID_1904387125" ENDARROW="Default" ENDINCLINATION="197;0;" ID="Arrow_ID_956187283" STARTARROW="None" STARTINCLINATION="197;0;"/>
+<linktarget COLOR="#313131" DESTINATION="ID_590243444" ENDARROW="Default" ENDINCLINATION="45;0;" ID="Arrow_ID_1088937743" SOURCE="ID_99229885" STARTARROW="None" STARTINCLINATION="45;0;"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1596492010144" HGAP="25" ID="ID_1415427343" MODIFIED="1596492816733" TEXT="Branching" VSHIFT="55">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node CREATED="1596492029853" HGAP="19" ID="ID_23527455" MODIFIED="1596492259084" TEXT="Ambiente de desenvolvimento" VSHIFT="-12">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1596492038119" ID="ID_501545559" MODIFIED="1596492046402" TEXT="Trunk (Master)">
+<font NAME="SansSerif" SIZE="14"/>
+<node CREATED="1596492047911" ID="ID_1306735859" MODIFIED="1596492073708" TEXT="Linha principal que o projeto sempre deve-se basear at&#xe9; o ambiente de produ&#xe7;&#xe3;o">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node CREATED="1596492077398" ID="ID_503688862" MODIFIED="1596492081100" TEXT="Branch">
+<font NAME="SansSerif" SIZE="14"/>
+<node CREATED="1596492081436" ID="ID_1246718650" MODIFIED="1596492100825" TEXT="C&#xf3;pia do c&#xf3;digo atual do trunk em dado momento">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node CREATED="1596492112988" ID="ID_1578236984" MODIFIED="1596492114588" TEXT="Tag">
+<font NAME="SansSerif" SIZE="14"/>
+<node CREATED="1596492115499" ID="ID_1048504818" MODIFIED="1596492129898" TEXT="Marcador de estado do c&#xf3;digo em dado momento">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node CREATED="1596492164125" HGAP="17" ID="ID_772328602" MODIFIED="1596492253213" TEXT="Merge" VSHIFT="25">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1596492178787" ID="ID_1141389907" MODIFIED="1596492190563" TEXT="Unir o c&#xf3;digo da brach ao trunk">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node CREATED="1596492195537" ID="ID_98544628" MODIFIED="1596492197153" TEXT="Problema">
+<font NAME="SansSerif" SIZE="14"/>
+<node CREATED="1596492198012" ID="ID_635665173" MODIFIED="1596492220113" TEXT="Quanto mais tempo demora o merge, maior o conflito e complexidade">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node CREATED="1596492229717" ID="ID_1740819470" MODIFIED="1596492243309" TEXT="O uso de muitas branches costuma aumentar a d&#xed;vida t&#xe9;cnica">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node CREATED="1596492331456" HGAP="17" ID="ID_1038277828" MODIFIED="1596492704000" TEXT="Estrat&#xe9;gias" VSHIFT="29">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1596492336022" ID="ID_1168758514" MODIFIED="1596492695587" TEXT="Produtividade Individual">
+<font NAME="SansSerif" SIZE="14"/>
+<node CREATED="1596492343181" ID="ID_1667559644" MODIFIED="1596492360272" TEXT="Cada desenvolvedor tem a sua branch">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#338800" CREATED="1596492368762" ID="ID_1652464819" MODIFIED="1596492463445" TEXT="Projeto privado que n&#xe3;o atrapalha outras equipes">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#b20000" CREATED="1596492466194" ID="ID_1224023699" MODIFIED="1596492671206" TEXT="Merge do c&#xf3;digo ocorre no final do projeto e gera muitos problemas">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node CREATED="1596492516747" ID="ID_1414657304" MODIFIED="1596492690602" TEXT="Produtividade da equipe">
+<font NAME="SansSerif" SIZE="14"/>
+<node CREATED="1596492529942" ID="ID_1667064952" MODIFIED="1596492536188" TEXT="Desenvolvimento baseado no trunk">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#338800" CREATED="1596492539849" ID="ID_169887850" MODIFIED="1596492577025" TEXT="Fila &#xfa;nica com todos trabalhando no trunk">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#338800" CREATED="1596492558490" ID="ID_1441040804" MODIFIED="1596492576635" TEXT="Commit frequente">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#338800" CREATED="1596492565394" ID="ID_1941570140" MODIFIED="1596492576218" TEXT="N&#xe3;o h&#xe1; o estresse de merge no final do projeto">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#b20000" CREATED="1596492584963" ID="ID_372242545" MODIFIED="1596492672767" TEXT="Dif&#xed;cil de implantar">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#b20000" CREATED="1596492599286" ID="ID_1660082785" MODIFIED="1596492673165" TEXT="Cada commit pode quebrar o projeto inteiro">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#b20000" CREATED="1596492609715" ID="ID_861293689" MODIFIED="1596492673690" TEXT="Deve-se puxar a corda de andon para corrigir">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1596492817533" HGAP="27" ID="ID_63651913" MODIFIED="1596493208845" TEXT="Release de baixo risco" VSHIFT="47">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node CREATED="1596493527235" ID="ID_1794575803" MODIFIED="1596493564432" TEXT="Colabora diretamente para minimizar indisponibilidade quando s&#xe3;o implantadas novas vers&#xf5;es">
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node CREATED="1596492832428" HGAP="18" ID="ID_1269625258" MODIFIED="1596493063184" TEXT="Diferen&#xe7;as" VSHIFT="-11">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1596492838402" ID="ID_419482998" MODIFIED="1596492841390" TEXT="Implanta&#xe7;&#xe3;o">
+<font NAME="SansSerif" SIZE="14"/>
+<node CREATED="1596492844137" ID="ID_1154963372" MODIFIED="1596492861580" TEXT="Instala&#xe7;&#xe3;o no respectivo ambiente para que seja poss&#xed;vel a estapa de release">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node CREATED="1596492865379" ID="ID_1581397068" MODIFIED="1596493145185" TEXT="Release" VSHIFT="5">
+<font NAME="SansSerif" SIZE="14"/>
+<node CREATED="1596492867291" ID="ID_1369685200" MODIFIED="1596492928520" TEXT="Disponibiliza os recursos para os clientes ou conjunto de clientes ap&#xf3;s a implanta&#xe7;&#xe3;o com sucesso e reduz riscos">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node CREATED="1596492954651" HGAP="17" ID="ID_1868723081" MODIFIED="1596493522379" TEXT="Categorias" VSHIFT="18">
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1596492965151" ID="ID_68271322" MODIFIED="1596492968255" TEXT="Baseado no ambiente">
+<font NAME="SansSerif" SIZE="14"/>
+<node CREATED="1596492968852" ID="ID_940966109" MODIFIED="1596492985959" TEXT="H&#xe1; 2 ou mais ambientes e apenas um fica ativo para os clientes">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node CREATED="1596493015313" HGAP="19" ID="ID_787755417" MODIFIED="1596493139345" TEXT="Baseado no aplicativo" VSHIFT="9">
+<font NAME="SansSerif" SIZE="14"/>
+<node CREATED="1596493023306" ID="ID_1724228722" MODIFIED="1596493037990" TEXT="Novas funcionalidades de forma seletiva usando configura&#xe7;&#xf5;es simples">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node CREATED="1596493038395" ID="ID_359415095" MODIFIED="1596493043822" TEXT="N&#xe3;o precisa fazer deploy">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1594852244374" FOLDED="true" HGAP="154" ID="ID_1150371778" MODIFIED="1596493730521" POSITION="right" TEXT="2&#xaa; Maneira: Feedback" VSHIFT="57">
 <edge COLOR="#005d66" STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="20"/>
 <node CREATED="1594852709917" ID="ID_1028320808" MODIFIED="1596061471416" TEXT="Objetivo">
@@ -959,7 +1203,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1594852313728" HGAP="116" ID="ID_237143213" MODIFIED="1596061471099" POSITION="right" TEXT="3&#xaa; Maneira: Aprendizado e Experimenta&#xe7;&#xe3;o" VSHIFT="78">
+<node CREATED="1594852313728" FOLDED="true" HGAP="116" ID="ID_237143213" MODIFIED="1596493082274" POSITION="right" TEXT="3&#xaa; Maneira: Aprendizado e Experimenta&#xe7;&#xe3;o" VSHIFT="78">
 <edge COLOR="#003c66" STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="20"/>
 <node CREATED="1594853273695" ID="ID_628201946" MODIFIED="1596061471416" TEXT="Objetivo">
