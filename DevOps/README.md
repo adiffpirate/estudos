@@ -11,6 +11,8 @@ Uma soma de práticas colaborativas e ferramentas de automação com o intuito d
         - [Primeira Maneira](#primeira-maneira)
         - [Segunda Maneira](#segunda-maneira)
         - [Terceira Maneira](#terceira-maneira)
+    - [DevOps Essentials](#devops-essentials)
+        - [Preview](#preview)
 
 ## Mapas mentais
 
@@ -32,3 +34,13 @@ O conteúdo desse mapa foi baseado no excelente livro [Jornada DevOps](https://b
 
 #### Terceira Maneira
 ![Terceira Maneira Jornada DevOps](https://github.com/adiffpirate/estudos/blob/master/DevOps/jornada-devops/node-3maneira.png?raw=true)
+
+### DevOps Essentials
+
+Resumo do material de estudo disponibilizado pela Certiprof para realização do exame DEPC (DevOps Essentials Professional Certificate)
+
+#### Preview
+> Não postarei o conteúdo completo do mapa aqui, pois ele é bem grandinho. Então fiquem com esse preview.
+> Se quiser o arquivo com o mapa completo, só [clicar aqui](https://github.com/adiffpirate/estudos/blob/master/DevOps/devops-essentials/devops-essentials.mm?raw=true)
+![Terceira Maneira Jornada DevOps](https://github.com/adiffpirate/estudos/blob/master/DevOps/devops-essentials/devops-essentials+preview.png?raw=true)
+
