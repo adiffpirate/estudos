@@ -11,8 +11,8 @@ Repositório para guardar e organizar meus materiais de estudo sobre diversas á
 
 - [Quality Assurance](#qa)
 - [DevOps](#devops)
-- [Security](#sec)
-- [Development](#dev)
+- [Security](#security)
+- [Development](#development)
 
 ## QA
 
@@ -20,7 +20,7 @@ O QA (Quality Assurance ou Analista da Qualidade) é o profissional responsável
 
 > Embora exista uma diferença entre QA (que visa melhorar o processo de produção) e Testador (que visa melhorar o produto), nesse repositório os dois conceitos aparecerão juntos para ficar mais didático e facilitar a localização.
 
-### Projetos práticos 
+#### Projetos práticos 
 
 Nome|Tecnologias utilizadas|Descrição
 :---:|:-------------------:|:--------:
@@ -30,7 +30,7 @@ Nome|Tecnologias utilizadas|Descrição
 
 Uma soma de práticas colaborativas e ferramentas de automação com o intuito de minimizar os conflitos entre todas as equipes responsáveis pelo produto, desde seu processo de concepção até a entrega.
 
-### Mapas mentais
+#### Mapas mentais
 
 Nome|Descrição
 :--:|:-------:
@@ -39,7 +39,7 @@ Nome|Descrição
 
 ## Security
 
-### Projetos práticos
+#### Projetos práticos
 
 Nome|Tecnologias utilizadas|Descrição
 :---:|:-------------------:|:--------:
@@ -47,7 +47,7 @@ Nome|Tecnologias utilizadas|Descrição
 
 ## Development
 
-### Projetos práticos
+#### Projetos práticos
 
 Nome|Tecnologias utilizadas|Descrição
 :---:|:-------------------:|:--------:
