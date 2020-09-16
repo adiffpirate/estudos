@@ -1,3 +1,6 @@
 [submodule "dev/deck-quest"]
 	path = dev/deck-quest
 	url = https://github.com/adiffpirate/deck-quest
+[submodule "sec/subtko24h"]
+	path = sec/subtko24h
+	url = https://github.com/adiffpirate/subtko24h
