@@ -22,7 +22,7 @@ O QA (Quality Assurance ou Analista da Qualidade) é o profissional responsável
 
 Nome|Tecnologias utilizadas|Descrição
 :---:|:-------------------:|:--------:
-[Testes WEB IRTS-01](https://github.com/adiffpirate/estudos/tree/master/QA#testes-web-irts01)|Selenium Web-Driver<br>Maven / Java|Automação de testes WEB desenvolvida no curso <br>"Início Rápido em Testes de Software 01" da [Iterasys](https://iterasys.com.br/)
+[Testes WEB IRTS-01](https://github.com/adiffpirate/estudos/tree/master/QA/testes-web-irts01)|Selenium Web-Driver<br>Maven / Java|Automação de testes WEB desenvolvida no curso <br>"Início Rápido em Testes de Software 01" da [Iterasys](https://iterasys.com.br/)
 
 ## DevOps
 
@@ -32,5 +32,5 @@ Uma soma de práticas colaborativas e ferramentas de automação com o intuito d
 
 Nome|Descrição
 :--:|:-------:
-[Jornada DevOps](https://github.com/adiffpirate/estudos/tree/master/DevOps#jornada-devops)|O conteúdo desse mapa foi baseado no excelente livro [Jornada DevOps](https://books.google.com.br/books/about/Jornada_DevOps_2a_edi%C3%A7%C3%A3o.html?id=gJTaDwAAQBAJ) <br>e no bootcamp "Profissional DevOps" da [IGTI](https://www.igti.com.br/)
-[DevOps Essentials](https://github.com/adiffpirate/estudos/tree/master/DevOps#devops-essentials)|Resumo do material de estudo disponibilizado pela Certiprof para realização <br>do exame DEPC (DevOps Essentials Professional Certificate)
+[Jornada DevOps](https://github.com/adiffpirate/estudos/tree/master/DevOps/jornada-devops)|O conteúdo desse mapa foi baseado no excelente livro [Jornada DevOps](https://books.google.com.br/books/about/Jornada_DevOps_2a_edi%C3%A7%C3%A3o.html?id=gJTaDwAAQBAJ) <br>e no bootcamp "Profissional DevOps" da [IGTI](https://www.igti.com.br/)
+[DevOps Essentials](https://github.com/adiffpirate/estudos/tree/master/DevOps/devops-essentials)|Resumo do material de estudo disponibilizado pela Certiprof para realização <br>do exame DEPC (DevOps Essentials Professional Certificate)
