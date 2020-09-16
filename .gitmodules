@@ -1,0 +1,3 @@
+[submodule "dev/deck-quest"]
+	path = dev/deck-quest
+	url = https://github.com/adiffpirate/deck-quest
