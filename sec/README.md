@@ -1,4 +1,4 @@
-# Sec
+# Security
 
 ## Projetos práticos
 

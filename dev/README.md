@@ -1,4 +1,4 @@
-# Dev
+# Development
 
 ## Projetos práticos
 
