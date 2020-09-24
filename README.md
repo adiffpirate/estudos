@@ -9,10 +9,31 @@ Repositório para guardar e organizar meus materiais de estudo sobre diversas á
 
 ## Conteúdos
 
-- [Quality Assurance](#qa)
-- [DevOps](#devops)
-- [Security](#security)
 - [Development](#development)
+- [DevOps](#devops)
+- [Quality Assurance](#qa)
+- [Security](#security)
+
+## Development
+
+O desenvolvimento é o processo de concepção, especificação, design, programação, documentação, teste e correção de bugs que envolve a criação e manutenção de aplicações, frameworks ou outros componentes de software.
+
+#### Projetos práticos
+
+Nome|Tecnologias utilizadas|Descrição
+:---:|:-------------------:|:--------:
+[Deck Quest](https://github.com/adiffpirate/deck-quest)|Java|MVP de um jogo single-player, offline e em turnos
+
+## DevOps
+
+Uma soma de práticas colaborativas e ferramentas de automação com o intuito de minimizar os conflitos entre todas as equipes responsáveis pelo produto, desde seu processo de concepção até a entrega.
+
+#### Mapas mentais
+
+Nome|Descrição
+:--:|:-------:
+[Jornada DevOps](https://github.com/adiffpirate/estudos/tree/master/devops/jornada-devops)|O conteúdo desse mapa foi baseado no excelente livro [Jornada DevOps](https://books.google.com.br/books/about/Jornada_DevOps_2a_edi%C3%A7%C3%A3o.html?id=gJTaDwAAQBAJ) <br>e no bootcamp "Profissional DevOps" da [IGTI](https://www.igti.com.br/)
+[DevOps Essentials](https://github.com/adiffpirate/estudos/tree/master/devops/devops-essentials)|Resumo do material de estudo disponibilizado pela Certiprof para realização <br>do exame DEPC (DevOps Essentials Professional Certificate)
 
 ## QA
 
@@ -26,17 +47,6 @@ Nome|Tecnologias utilizadas|Descrição
 :---:|:-------------------:|:--------:
 [Testes WEB IRTS-01](https://github.com/adiffpirate/estudos/tree/master/qa/testes-web-irts01)|Selenium Web-Driver<br>Maven / Java|Automação de testes WEB desenvolvida no curso <br>"Início Rápido em Testes de Software 01" da [Iterasys](https://iterasys.com.br/)
 
-## DevOps
-
-Uma soma de práticas colaborativas e ferramentas de automação com o intuito de minimizar os conflitos entre todas as equipes responsáveis pelo produto, desde seu processo de concepção até a entrega.
-
-#### Mapas mentais
-
-Nome|Descrição
-:--:|:-------:
-[Jornada DevOps](https://github.com/adiffpirate/estudos/tree/master/devops/jornada-devops)|O conteúdo desse mapa foi baseado no excelente livro [Jornada DevOps](https://books.google.com.br/books/about/Jornada_DevOps_2a_edi%C3%A7%C3%A3o.html?id=gJTaDwAAQBAJ) <br>e no bootcamp "Profissional DevOps" da [IGTI](https://www.igti.com.br/)
-[DevOps Essentials](https://github.com/adiffpirate/estudos/tree/master/devops/devops-essentials)|Resumo do material de estudo disponibilizado pela Certiprof para realização <br>do exame DEPC (DevOps Essentials Professional Certificate)
-
 ## Security
 
 A segurança da informação tem por objetivo principal proteger um conjunto de dados ou uma aplicação, afim de preservar seu valor para o indivíduo e/ou organização. Para isso, a [confidencialidade](https://pt.wikipedia.org/wiki/Confidencialidade), [integridade](https://pt.wikipedia.org/wiki/Integridade), [disponibilidade](https://pt.wikipedia.org/wiki/Disponibilidade), [autenticidade](https://pt.wikipedia.org/wiki/Autenticidade) e [legalidade](https://pt.wikipedia.org/wiki/Legalidade) do objeto a ser protegido devem ser respeitadas a todo momento.
@@ -46,13 +56,3 @@ A segurança da informação tem por objetivo principal proteger um conjunto de 
 Nome|Tecnologias utilizadas|Descrição
 :---:|:-------------------:|:--------:
 [SubTko 24h](https://github.com/adiffpirate/subtko24h)|Bash|Script que junta várias ferramentas open source para verificar<br>a vulnerabilidade "Subdomain Takeover" 24/7 em centenas de empresas
-
-## Development
-
-O desenvolvimento é o processo de concepção, especificação, design, programação, documentação, teste e correção de bugs que envolve a criação e manutenção de aplicações, frameworks ou outros componentes de software.
-
-#### Projetos práticos
-
-Nome|Tecnologias utilizadas|Descrição
-:---:|:-------------------:|:--------:
-[Deck Quest](https://github.com/adiffpirate/deck-quest)|Java|MVP de um jogo single-player, offline e em turnos
