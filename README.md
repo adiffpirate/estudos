@@ -55,4 +55,4 @@ O desenvolvimento é o processo de concepção, especificação, design, program
 
 Nome|Tecnologias utilizadas|Descrição
 :---:|:-------------------:|:--------:
-[Deck Quest](https://github.com/adiffpirate/deck-quest)|Java|Um jogo simples, single-player, offline e em turnos
+[Deck Quest](https://github.com/adiffpirate/deck-quest)|Java|MVP de um jogo single-player, offline e em turnos
