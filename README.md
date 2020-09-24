@@ -11,8 +11,8 @@ Repositório para guardar e organizar meus materiais de estudo sobre diversas á
 
 - [Quality Assurance](#qa)
 - [DevOps](#devops)
-- [Security](#sec)
-- [Development](#dev)
+- [Security](#security)
+- [Development](#development)
 
 ## QA
 
@@ -20,7 +20,7 @@ O QA (Quality Assurance ou Analista da Qualidade) é o profissional responsável
 
 > Embora exista uma diferença entre QA (que visa melhorar o processo de produção) e Testador (que visa melhorar o produto), nesse repositório os dois conceitos aparecerão juntos para ficar mais didático e facilitar a localização.
 
-### Projetos práticos 
+#### Projetos práticos 
 
 Nome|Tecnologias utilizadas|Descrição
 :---:|:-------------------:|:--------:
@@ -30,7 +30,7 @@ Nome|Tecnologias utilizadas|Descrição
 
 Uma soma de práticas colaborativas e ferramentas de automação com o intuito de minimizar os conflitos entre todas as equipes responsáveis pelo produto, desde seu processo de concepção até a entrega.
 
-### Mapas mentais
+#### Mapas mentais
 
 Nome|Descrição
 :--:|:-------:
@@ -41,7 +41,7 @@ Nome|Descrição
 
 A segurança da informação tem por objetivo principal proteger um conjunto de dados ou uma aplicação, afim de preservar seu valor para o indivíduo e/ou organização. Para isso, a [confidencialidade](https://pt.wikipedia.org/wiki/Confidencialidade), [integridade](https://pt.wikipedia.org/wiki/Integridade), [disponibilidade](https://pt.wikipedia.org/wiki/Disponibilidade), [autenticidade](https://pt.wikipedia.org/wiki/Autenticidade) e [legalidade](https://pt.wikipedia.org/wiki/Legalidade) do objeto a ser protegido devem ser respeitadas a todo momento.
 
-### Projetos práticos
+#### Projetos práticos
 
 Nome|Tecnologias utilizadas|Descrição
 :---:|:-------------------:|:--------:
@@ -51,7 +51,7 @@ Nome|Tecnologias utilizadas|Descrição
 
 O desenvolvimento é o processo de concepção, especificação, design, programação, documentação, teste e correção de bugs que envolve a criação e manutenção de aplicações, frameworks ou outros componentes de software.
 
-### Projetos práticos
+#### Projetos práticos
 
 Nome|Tecnologias utilizadas|Descrição
 :---:|:-------------------:|:--------:
